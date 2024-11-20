@@ -1,6 +1,6 @@
-module rsc.io/quote
+module github.com/Alecchoy/quote
 
 require (
-	rsc.io/quote/v3 v3.0.0
-	rsc.io/sampler v1.3.0
+	github.com/Alecchoy/quote/v3 v3.0.0
+	github.com/Alecchoy/sampler v1.3.0
 )
